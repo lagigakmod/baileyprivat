@@ -12,10 +12,10 @@
     "proto",
     "whatsapp-websocket"
   ],
-  "homepage": "https://github.com/lagigakmod/baileyprivat",
+  "homepage": "https://github.com/Fdofficialcoyhost/Baileys",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/lagigakmod/baileyprivat.git"
+    "url": "git+ssh://git@github.com/Fdofficialcoyhost/Baileys.git"
   },
   "license": "MIT",
   "author": "KiyoraElvirex",
@@ -98,6 +98,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/lagigakmod/baileyprivat/issues"
+    "url": "https://github.com/Fdofficialcoyhost/Baileys/issues"
   }
 }
