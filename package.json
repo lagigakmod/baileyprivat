@@ -1,5 +1,5 @@
 {
-  "name": "@fyxzpedia/bail",
+  "name": "@lagigakmod/baileyprivat",
   "version": "10.0.14",
   "description": "Websocket Whatsapp API for Node.js",
   "keywords": [
@@ -12,13 +12,13 @@
     "proto",
     "whatsapp-websocket"
   ],
-  "homepage": "https://github.com/Fdofficialcoyhost/Baileys",
+  "homepage": "https://github.com/lagigakmod/baileyprivat",
   "repository": {
     "type": "git",
-    "url": "git+ssh://git@github.com/Fdofficialcoyhost/Baileys.git"
+    "url": "git+ssh://git@github.com/lagigakmod/baileyprivat.git"
   },
   "license": "MIT",
-  "author": "Fyxzpedia",
+  "author": "KiyoraElvirex",
   "main": "./lib/index.js",
   "files": [
     "lib/*",
@@ -98,6 +98,6 @@
     "lib": "lib"
   },
   "bugs": {
-    "url": "https://github.com/Fdofficialcoyhost/Baileys/issues"
+    "url": "https://github.com/lagigakmod/baileyprivat/issues"
   }
 }
